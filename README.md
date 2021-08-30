@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+# 2021Fall-Game-Testing
+# GAME 2338 - Game Testing
 
-You can use the [editor on GitHub](https://github.com/WesleyWalamostudent/2021Fall-Game-Testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Agenda
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Week 1
+  - Introduction
+  - [Grading Rubric](https://cmacdougald.github.io/handouts/grading_rubric.html)
+  - [Game Testing History](slides/game_testing_history.html)
+  - GitHub
+  - Course How To
+- Week 2
+  - [Quality](slides/quality.html)
+  - Lab: [Quality](labs/quality_games.html)
+  - [Semester Project](project/overview.md)
+  - Game Review Assignments
+- Week 3
+  - Software Development Life Cycle
+  - [Version Control](slides/version_control.html)
+- Week 4
+  - [Types of Testing](slides/types_of_testing.html)
+  - Lab: [Types of Testing Scenarios](labs/types_of_testing_scenarios.html)
+- Week 5
+  - [Review](https://cmacdougald.github.io/slides/test_review.html)
+  - Test
+- Week 6
+  - Test Plan
+  - Lab: [Agile Airplanes](labs/agile_airplanes.html)
+  - Lab: [Easter Eggs](labs/easter_eggs.html)
+  - [Test Cases](slides/test_cases.html)
+- Week 7
+  - Test Environments
+  - [Playtesting](slides/playtesting.html)
+- Week 8
+  - Test Execution
+- Week 9
+  - Box Testing
+- Week 10
+  - [Review](https://cmacdougald.github.io/slides/test_review.html)
+  - Test
+- Week 11
+  - Bug Reports
+- Week 12
+  - [Automation](slides/automation.html)
+  - Selenium
+  - CI/CD
+    - https://www.redhat.com/en/topics/devops/what-is-ci-cd
+    - https://www.mabl.com/blog/what-is-cicd
+- Week 13
+  - [Load, Performance, and Stress Testing](slides/loadperformancestress_testing.html)
+  - System, Integration and Other Testing
+- Week 14
+  - [Smoke, Functional, & Unit Testing](slides/smokefunctionalunit_testing.html)
+- Week 15
+  - [Review](https://cmacdougald.github.io/slides/test_review.html)
+  - Test
+- Week 16
+  - Everything Due
+  - Finals
+ 
+## Assignments
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WesleyWalamostudent/2021Fall-Game-Testing/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Game Review Template](assignments/gamereviewtemplate.md)
+- [Game Critique Template](assignments/gamecritiquetemplate.md)
+- [Play Testing Template](assignments/playtestingtemplate.md)
+- [Web Testing Tools Template](assignments/web_testing_tools.md)
